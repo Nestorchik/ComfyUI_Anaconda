@@ -9,3 +9,4 @@
 Пути в примерах:
 - **Anaconda** по пути **"d:\an3"**
 - **ComfyUI** по пути **"d:\0\ComfyUI"**
+- **conda_comfyui_required.yml** по пути **"d:\0\conda_comfyui_required.yml"**
